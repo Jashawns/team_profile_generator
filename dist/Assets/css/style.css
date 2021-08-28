@@ -1,0 +1,23 @@
+h1, header, .jumbotron {
+    font-family: 'Fantasy', copperplate;
+    font-size: 40px;
+    background-color: #d11508;
+    color: white
+}
+
+.card-header {
+    text-decoration: none;
+    background-color: blue;
+    font-family: 'Fantasy', copperplate;
+    color: white;
+    font-size: 20px;
+}
+
+.card-title {
+    text-decoration: none;
+    background-color: blue;
+    font-family: 'Fantasy', copperplate;
+    color: white;
+    font-size: 20px;
+}
+
