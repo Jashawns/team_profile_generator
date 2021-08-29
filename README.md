@@ -18,6 +18,9 @@ This is a Node.js command-line application that takes in information about emplo
 
 ![demo](./dist/Assets/images/myteamdemo.png) 
 
+Screencastify Walkthrough:
+
+[Screencastify Walkthrough](https://drive.google.com/file/d/1qnT5kx6FSg01KWU9ORj4Q8C4jrRmsyXu/view)
 
 ## Installation 
 
@@ -52,3 +55,4 @@ THEN I exit the application, and the HTML is generated.
 ## Links
 
 https://github.com/Jashawns/team_profile_generator
+
