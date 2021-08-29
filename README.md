@@ -56,3 +56,5 @@ THEN I exit the application, and the HTML is generated.
 
 https://github.com/Jashawns/team_profile_generator
 
+https://jashawns.github.io/team_profile_generator/
+
